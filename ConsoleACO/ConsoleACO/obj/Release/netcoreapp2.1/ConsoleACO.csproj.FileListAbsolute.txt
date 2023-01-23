@@ -1,0 +1,11 @@
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO\ConsoleACO\bin\Release\netcoreapp2.1\ConsoleACO.deps.json
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO\ConsoleACO\bin\Release\netcoreapp2.1\ConsoleACO.runtimeconfig.json
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO\ConsoleACO\bin\Release\netcoreapp2.1\ConsoleACO.runtimeconfig.dev.json
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO\ConsoleACO\bin\Release\netcoreapp2.1\ConsoleACO.dll
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO\ConsoleACO\bin\Release\netcoreapp2.1\ConsoleACO.pdb
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO\ConsoleACO\obj\Release\netcoreapp2.1\ConsoleACO.csproj.CoreCompileInputs.cache
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO\ConsoleACO\obj\Release\netcoreapp2.1\ConsoleACO.AssemblyInfoInputs.cache
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO\ConsoleACO\obj\Release\netcoreapp2.1\ConsoleACO.AssemblyInfo.cs
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO\ConsoleACO\obj\Release\netcoreapp2.1\ConsoleACO.dll
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO\ConsoleACO\obj\Release\netcoreapp2.1\ConsoleACO.pdb
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO\ConsoleACO\obj\Release\netcoreapp2.1\ConsoleACO.csprojAssemblyReference.cache

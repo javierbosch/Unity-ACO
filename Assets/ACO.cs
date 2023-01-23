@@ -66,7 +66,7 @@ public class ACO : MonoBehaviour
         bestTrail = BestTrail();
         bestLength = Length(bestTrail);
         pheromones = InitPheromones();
-        pheromonesObjectParent = CreatePheromonesLineRenderer();
+        //pheromonesObjectParent = CreatePheromonesLineRenderer();
         resultsFileName = this.name + ".csv";
         CreateFile();
     }
@@ -84,34 +84,34 @@ public class ACO : MonoBehaviour
             bestLength = currBestLength;
             bestTrail = currBestTrail;
         }
-        UpdateDiversity(currBestLength);
+        // UpdateDiversity(currBestLength);
 
 
-        if (display)
-        {
-            UpdateUI();
+        // if (display)
+        // {
+        //     UpdateUI();
 
-            if (showBestCurrentPath)
-                DisplayTrail(currBestTrail);
-            else
-                DisplayTrail(bestTrail);
-            trailObject.SetActive(true);
-            if (showPheromones)
-            {
-                pheromonesObjectParent.SetActive(true);
-                DisplayPheromones();
-            }
-            else
-            {
-                pheromonesObjectParent.SetActive(false);
-            }
-        }
-        else
-        {
-            pheromonesObjectParent.SetActive(false);
-            uiText.text = "";
-            trailObject.SetActive(false);
-        }
+        //     if (showBestCurrentPath)
+        //         DisplayTrail(currBestTrail);
+        //     else
+        //         DisplayTrail(bestTrail);
+        //     trailObject.SetActive(true);
+        //     if (showPheromones)
+        //     {
+        //         pheromonesObjectParent.SetActive(true);
+        //         DisplayPheromones();
+        //     }
+        //     else
+        //     {
+        //         pheromonesObjectParent.SetActive(false);
+        //     }
+        // }
+        // else
+        // {
+        //     pheromonesObjectParent.SetActive(false);
+        //     uiText.text = "";
+        //     trailObject.SetActive(false);
+        // }
 
 
         double pheremonesDiversity = PheromoneDiversity(pheromones);
@@ -482,7 +482,6 @@ public class ACO : MonoBehaviour
             }
         }
         int numCities = ants[0].Length;
-        //INSTANT VB NOTE: The local variable bestTrail was renamed since Visual Basic will not allow local variables with the same name as their enclosing function or property:
         int[] bestTrail_Renamed = new int[numCities + 1];
         ants[idxBestLength].CopyTo(bestTrail_Renamed, 0);
         return bestTrail_Renamed;

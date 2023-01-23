@@ -1,0 +1,65 @@
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO\ConsoleACO\bin\Debug\netcoreapp2.1\ConsoleACO.deps.json
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO\ConsoleACO\bin\Debug\netcoreapp2.1\ConsoleACO.runtimeconfig.json
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO\ConsoleACO\bin\Debug\netcoreapp2.1\ConsoleACO.runtimeconfig.dev.json
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO\ConsoleACO\bin\Debug\netcoreapp2.1\ConsoleACO.dll
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO\ConsoleACO\bin\Debug\netcoreapp2.1\ConsoleACO.pdb
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO\ConsoleACO\obj\Debug\netcoreapp2.1\ConsoleACO.csproj.CoreCompileInputs.cache
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO\ConsoleACO\obj\Debug\netcoreapp2.1\ConsoleACO.AssemblyInfoInputs.cache
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO\ConsoleACO\obj\Debug\netcoreapp2.1\ConsoleACO.AssemblyInfo.cs
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO\ConsoleACO\obj\Debug\netcoreapp2.1\ConsoleACO.dll
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO\ConsoleACO\obj\Debug\netcoreapp2.1\ConsoleACO.pdb
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO\ConsoleACO\obj\Debug\netcoreapp2.1\ConsoleACO.csproj.AssemblyReference.cache
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO\ConsoleACO\obj\Debug\netcoreapp2.1\ConsoleACO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO\ConsoleACO\obj\Debug\netcoreapp2.1\ConsoleACO.genruntimeconfig.cache
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO - ZOOM\ConsoleACO\bin\Debug\netcoreapp2.1\ConsoleACO.deps.json
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO - ZOOM\ConsoleACO\bin\Debug\netcoreapp2.1\ConsoleACO.runtimeconfig.json
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO - ZOOM\ConsoleACO\bin\Debug\netcoreapp2.1\ConsoleACO.runtimeconfig.dev.json
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO - ZOOM\ConsoleACO\bin\Debug\netcoreapp2.1\ConsoleACO.dll
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO - ZOOM\ConsoleACO\bin\Debug\netcoreapp2.1\ConsoleACO.pdb
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO - ZOOM\ConsoleACO\obj\Debug\netcoreapp2.1\ConsoleACO.csproj.AssemblyReference.cache
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO - ZOOM\ConsoleACO\obj\Debug\netcoreapp2.1\ConsoleACO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO - ZOOM\ConsoleACO\obj\Debug\netcoreapp2.1\ConsoleACO.AssemblyInfoInputs.cache
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO - ZOOM\ConsoleACO\obj\Debug\netcoreapp2.1\ConsoleACO.AssemblyInfo.cs
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO - ZOOM\ConsoleACO\obj\Debug\netcoreapp2.1\ConsoleACO.csproj.CoreCompileInputs.cache
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO - ZOOM\ConsoleACO\obj\Debug\netcoreapp2.1\ConsoleACO.dll
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO - ZOOM\ConsoleACO\obj\Debug\netcoreapp2.1\ConsoleACO.pdb
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO - ZOOM\ConsoleACO\obj\Debug\netcoreapp2.1\ConsoleACO.genruntimeconfig.cache
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO - Testing\ConsoleACO\bin\Debug\netcoreapp2.1\ConsoleACO.deps.json
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO - Testing\ConsoleACO\bin\Debug\netcoreapp2.1\ConsoleACO.runtimeconfig.json
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO - Testing\ConsoleACO\bin\Debug\netcoreapp2.1\ConsoleACO.runtimeconfig.dev.json
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO - Testing\ConsoleACO\bin\Debug\netcoreapp2.1\ConsoleACO.dll
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO - Testing\ConsoleACO\bin\Debug\netcoreapp2.1\ConsoleACO.pdb
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO - Testing\ConsoleACO\obj\Debug\netcoreapp2.1\ConsoleACO.csproj.AssemblyReference.cache
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO - Testing\ConsoleACO\obj\Debug\netcoreapp2.1\ConsoleACO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO - Testing\ConsoleACO\obj\Debug\netcoreapp2.1\ConsoleACO.AssemblyInfoInputs.cache
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO - Testing\ConsoleACO\obj\Debug\netcoreapp2.1\ConsoleACO.AssemblyInfo.cs
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO - Testing\ConsoleACO\obj\Debug\netcoreapp2.1\ConsoleACO.csproj.CoreCompileInputs.cache
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO - Testing\ConsoleACO\obj\Debug\netcoreapp2.1\ConsoleACO.dll
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO - Testing\ConsoleACO\obj\Debug\netcoreapp2.1\ConsoleACO.pdb
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO - Testing\ConsoleACO\obj\Debug\netcoreapp2.1\ConsoleACO.genruntimeconfig.cache
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO - Testing - Ant2\ConsoleACO\bin\Debug\netcoreapp2.1\ConsoleACO.deps.json
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO - Testing - Ant2\ConsoleACO\bin\Debug\netcoreapp2.1\ConsoleACO.runtimeconfig.json
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO - Testing - Ant2\ConsoleACO\bin\Debug\netcoreapp2.1\ConsoleACO.runtimeconfig.dev.json
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO - Testing - Ant2\ConsoleACO\bin\Debug\netcoreapp2.1\ConsoleACO.dll
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO - Testing - Ant2\ConsoleACO\bin\Debug\netcoreapp2.1\ConsoleACO.pdb
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO - Testing - Ant2\ConsoleACO\obj\Debug\netcoreapp2.1\ConsoleACO.csproj.AssemblyReference.cache
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO - Testing - Ant2\ConsoleACO\obj\Debug\netcoreapp2.1\ConsoleACO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO - Testing - Ant2\ConsoleACO\obj\Debug\netcoreapp2.1\ConsoleACO.AssemblyInfoInputs.cache
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO - Testing - Ant2\ConsoleACO\obj\Debug\netcoreapp2.1\ConsoleACO.AssemblyInfo.cs
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO - Testing - Ant2\ConsoleACO\obj\Debug\netcoreapp2.1\ConsoleACO.csproj.CoreCompileInputs.cache
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO - Testing - Ant2\ConsoleACO\obj\Debug\netcoreapp2.1\ConsoleACO.dll
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO - Testing - Ant2\ConsoleACO\obj\Debug\netcoreapp2.1\ConsoleACO.pdb
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO - Testing - Ant2\ConsoleACO\obj\Debug\netcoreapp2.1\ConsoleACO.genruntimeconfig.cache
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO - smooth\ConsoleACO\bin\Debug\netcoreapp2.1\ConsoleACO.deps.json
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO - smooth\ConsoleACO\bin\Debug\netcoreapp2.1\ConsoleACO.runtimeconfig.json
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO - smooth\ConsoleACO\bin\Debug\netcoreapp2.1\ConsoleACO.runtimeconfig.dev.json
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO - smooth\ConsoleACO\bin\Debug\netcoreapp2.1\ConsoleACO.dll
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO - smooth\ConsoleACO\bin\Debug\netcoreapp2.1\ConsoleACO.pdb
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO - smooth\ConsoleACO\obj\Debug\netcoreapp2.1\ConsoleACO.csproj.AssemblyReference.cache
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO - smooth\ConsoleACO\obj\Debug\netcoreapp2.1\ConsoleACO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO - smooth\ConsoleACO\obj\Debug\netcoreapp2.1\ConsoleACO.AssemblyInfoInputs.cache
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO - smooth\ConsoleACO\obj\Debug\netcoreapp2.1\ConsoleACO.AssemblyInfo.cs
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO - smooth\ConsoleACO\obj\Debug\netcoreapp2.1\ConsoleACO.csproj.CoreCompileInputs.cache
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO - smooth\ConsoleACO\obj\Debug\netcoreapp2.1\ConsoleACO.dll
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO - smooth\ConsoleACO\obj\Debug\netcoreapp2.1\ConsoleACO.pdb
+C:\Users\javie\OneDrive\Escritorio\TSP-Console\ConsoleACO - smooth\ConsoleACO\obj\Debug\netcoreapp2.1\ConsoleACO.genruntimeconfig.cache

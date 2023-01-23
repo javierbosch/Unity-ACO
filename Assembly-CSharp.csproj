@@ -37,9 +37,11 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\showOptimal.cs" />
+     <Compile Include="Assets\duplicator.cs" />
      <Compile Include="Assets\createPoints.cs" />
      <Compile Include="Assets\ACO.cs" />
-     <Compile Include="Assets\duplicator.cs" />
+     <Compile Include="Assets\Controller.cs" />
+     <Compile Include="Assets\ACOJob.cs" />
      <None Include="Assets\att48.txt" />
      <None Include="Assets\gr96.txt" />
      <None Include="Assets\ulysses16.txt" />

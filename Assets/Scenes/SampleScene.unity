@@ -258,6 +258,90 @@ LineRenderer:
     generateLightingData: 0
   m_UseWorldSpace: 0
   m_Loop: 0
+--- !u!1 &292923045
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 292923047}
+  - component: {fileID: 292923046}
+  - component: {fileID: 292923048}
+  - component: {fileID: 292923049}
+  m_Layer: 0
+  m_Name: Controller
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &292923046
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 292923045}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5505126ae5350142b2385fef5b159c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  samplePoint: {fileID: 1701366546}
+  tspFile: {fileID: 4900000, guid: 20b9b5bb3a8f37b468d664e74b478fd0, type: 3}
+  parent: {fileID: 596246777}
+  xScale: 28
+  yScale: 28
+--- !u!4 &292923047
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 292923045}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &292923048
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 292923045}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 693d844ed72cdee4d86d71d1920ded3e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nCopies: 1
+  maxIteratios: 0
+  stops: {fileID: 596246777}
+  iterations: 0
+--- !u!114 &292923049
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 292923045}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5e5227babd541844bb49cd811f1ee3c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  tspFile: {fileID: 4900000, guid: 20b9b5bb3a8f37b468d664e74b478fd0, type: 3}
+  parent: {fileID: 596246777}
+  samplePathLine: {fileID: 278737118}
+  showPath: 0
+  optimalLength: 0
+  pathIsInitilized: 0
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -359,7 +443,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &559136846
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -408,8 +492,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sample: {fileID: 2016160932}
-  nCopies: 3
-  maxIteratios: 5000
+  nCopies: 1
+  maxIteratios: 1000
 --- !u!4 &559136849
 Transform:
   m_ObjectHideFlags: 0
@@ -1005,7 +1089,7 @@ MonoBehaviour:
   beta: 2
   rho: 0.7
   Q: 50
-  sigma: 20
+  sigma: 1
   uiText: {fileID: 1919652435}
   trailObject: {fileID: 982370789}
   stops: {fileID: 596246777}
